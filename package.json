@@ -9,7 +9,7 @@
   "bugs": {
     "url": "https://github.com/sambacha/yyip/issues"
   },
-  "homepage": "https://github.com/sambacha/yyip#readme",
+  "homepage": "https://github.com/sambacha/generator-yyip#readme",
   "scripts": {
     "ejs-lint": "mocha test/ejslint.js",
     "ejslint": "ejslint",
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sambacha/yyip.git"
+    "url": "git+https://github.com/sambacha/generator-yyip.git"
   },
   "keywords": [
     "generator",
