@@ -1,5 +1,5 @@
 {
-  "name": "yyip",
+  "name": "generator-yyip",
   "version": "0.1.0",
   "description": "yEarn Improvement Proposal generator based on Yeoman",
   "files": [
@@ -7,7 +7,7 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sambacha/yyip/issues"
+    "url": "https://github.com/sambacha/generator-yyip/issues"
   },
   "homepage": "https://github.com/sambacha/generator-yyip#readme",
   "scripts": {
