@@ -18,10 +18,11 @@
 
 - [Abstract](#abstract)
 - [Motivation](#motivation)
-- [Contributing](#contributing)
+    + [Process of a `YIP`](#process-of-a--yip-)
 - [YIP Statuses](#yip-statuses)
   * [Example YIP](#example-yip)
 - [Validation](#validation)
+- [Solution](#solution)
     + [Usage](#usage)
     + [Requirements](#requirements)
     + [Install](#install)
@@ -36,9 +37,9 @@ The yEarn Improvement Proposals (`YIP`s) describe standards for the yEarn platfo
 
 `yYip` generator is a Yeoman generator to kickstart your  yEarn Improvement Proposal, like strategies. 
 
+Enabling more ideation and less paperwork is the main goal. We can see through the process below how involved submissions can be:
 
-## Contributing
-
+#### Process of a `YIP`
  1. Review [YIP-0](YIPS/yip-0.md).
  2. Fork the repository by clicking "Fork" in the top right.
  3. Add your YIP to your fork of the repository. There is a [template YIP here](yip-X.md).
@@ -81,6 +82,10 @@ It is possible to run the YIP validator locally:
 gem install yip_validator
 yip_validator <INPUT_FILES>
 ```
+
+## Solution
+
+Follow instructions below to install
 
 #### Usage
 
