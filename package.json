@@ -5,20 +5,6 @@
   "files": [
     "generators"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sambacha/yyip.git"
-  },
-  "keywords": [
-    "generator",
-    "yo",
-    "yip",
-    "skip",
-    "dip",
-    "flip",
-    "yEarn",
-    "defi"
-  ],
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/sambacha/yyip/issues"
@@ -62,5 +48,19 @@
     "mocha": "8.2.0",
     "yeoman-assert": "3.1.1",
     "yeoman-test": "3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/yyip.git"
+  },
+  "keywords": [
+    "generator",
+    "yo",
+    "yip",
+    "skip",
+    "dip",
+    "flip",
+    "yEarn",
+    "defi"
+  ]
 }
