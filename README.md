@@ -15,19 +15,20 @@
 <br />
 <br />
 
-
 - [Abstract](#abstract)
 - [Motivation](#motivation)
-    + [Process of a `YIP`](#process-of-a--yip-)
+- [What is an YIP?](#what-is-an-yip-)
+- [YIP Rationale](#yip-rationale)
+    + [Process of submitting a`YIP`](#process-of-submitting-a-yip-)
 - [YIP Statuses](#yip-statuses)
   * [Example YIP](#example-yip)
 - [Validation](#validation)
-- [Solution](#solution)
-    + [Usage](#usage)
+- [Using the yYIP Generator](#using-the-yyip-generator)
     + [Requirements](#requirements)
     + [Install](#install)
+    + [Commands](#commands)
+- [YIP Editors](#yip-editors)
 - [Copyright](#copyright)
-
 
 ## Abstract
 
@@ -37,9 +38,22 @@ The yEarn Improvement Proposals (`YIP`s) describe standards for the yEarn platfo
 
 `yYip` generator is a Yeoman generator to kickstart your  yEarn Improvement Proposal, like strategies. 
 
-Enabling more ideation and less paperwork is the main goal. We can see through the process below how involved submissions can be:
 
-#### Process of a `YIP`
+## What is an YIP?
+
+YIP stands for yEarn Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to yEarn are transparent and well governed. An YIP is a design document providing information to the yEarn community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
+
+##  YIP Rationale
+
+We intend YIPs to be the primary mechanisms for proposing new features, collecting community input on an issue, and for documenting the design decisions for changes to yEarn. Because they are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
+
+It is highly recommended that a single YIP contain a single key proposal or new idea. The more focused the YIP, the more successful it is likely to be.
+
+An YIP must meet certain minimum criteria. It must be a clear and complete description of the proposed enhancement. The enhancement must represent a net improvement.
+
+
+#### Process of submitting a`YIP`
+
  1. Review [YIP-0](YIPS/yip-0.md).
  2. Fork the repository by clicking "Fork" in the top right.
  3. Add your YIP to your fork of the repository. There is a [template YIP here](yip-X.md).
@@ -83,11 +97,9 @@ gem install yip_validator
 yip_validator <INPUT_FILES>
 ```
 
-## Solution
+## Using the yYIP Generator
 
 Follow instructions below to install
-
-#### Usage
 
 #### Requirements
 
@@ -106,6 +118,23 @@ npm install -g yo
 yo  yip
 ```
 
+#### Commands
+
+Follow the commands in your terminal / console
+
+## YIP Editors
+
+The current YIP editors are:
+
+` * Artem K (@banteg)`
+
+` * Cooper Turley (@Cooopahtroopa)`
+
+` * Daryl Lau (@Daryllautk)`
+
+` * Klim K (@milkyklim)`
+
+` * Sunil Srivatsa (@alphastorm)`
 
 
 ## Copyright
