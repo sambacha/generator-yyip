@@ -30,6 +30,11 @@
 - [YIP Editors](#yip-editors)
 - [Copyright](#copyright)
 
+### TL;DR
+
+`$ npm i generator-yyip -g`
+`$ yo yyip`
+
 ## Abstract
 
 The yEarn Improvement Proposals (`YIP`s) describe standards for the yEarn platform, including core protocol specifications, client APIs, and contract standards. This is the definitive, `cannonical` reference specification for the core logic.
