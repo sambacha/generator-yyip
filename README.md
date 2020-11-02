@@ -32,7 +32,7 @@
 
 ### TL;DR
 
-`$ npm i generator-yyip -g`
+`$ npm i generator-yyip -g` <br>
 `$ yo yyip`
 
 ## Abstract
