@@ -1,3 +1,5 @@
+# `yearn improvement proposal statuses`
+
 WIP - a YIP that is still being developed.
 Proposed - a YIP that is ready to be reviewed in a governance call.
 Approved - a YIP that has been accepted for implementation by the yEarn community.
