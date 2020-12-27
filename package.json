@@ -1,6 +1,6 @@
 {
   "name": "generator-yyip",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "yEarn Improvement Proposal generator based on Yeoman",
   "files": [
     "generators"
