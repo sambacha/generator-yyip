@@ -82,7 +82,7 @@ When you believe your YIP is mature and ready to progress past the WIP phase, yo
 - **Approved** - a YIP that has been accepted for implementation by the yEarn community.
 - **Implemented** - a YIP that has been released to mainnet.
 - **Rejected** - a YIP that has been rejected.
-- **Moribund** - 
+- **Moribund** -
 
 ### Example YIP
 
