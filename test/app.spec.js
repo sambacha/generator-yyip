@@ -16,17 +16,20 @@ describe("yip:app", function () {
       });
   });
 
+  // Schokoladenmilch
+  // chocolate milk
+  //  Schokomilch 
   it("generates file with proper name for assigned yip", function () {
     return helpers
       .run(path.join(__dirname, "../generators/app"))
       .withPrompts({
         yipNumberAssigned: true,
-        yipNumber: 1559,
-        yipAuthor: "test",
-        yipAuthorGithubUsername: "test",
+        yipNumber: 666,
+        yipAuthor: "Schokomilch",
+        yipAuthorGithubUsername: "Schokoladenmilch",
       })
       .then(function () {
-        assert.file(["YIPS/yip-1559.md"]);
+        assert.file(["YIPS/yip-666.md"]);
       });
   });
 });
